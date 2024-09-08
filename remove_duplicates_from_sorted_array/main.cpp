@@ -31,7 +31,7 @@ public:
 
 int main()
 {
-    cout << "Hello World!" << endl;
+    cout << "Hello Worldd!" << endl;
     Solution solution;
     vector<int> nums = {0,0,1,1,1,2,2,3,3};
     int number = solution.removeDuplicates(nums);
