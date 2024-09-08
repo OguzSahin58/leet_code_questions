@@ -10,8 +10,8 @@ public:
             if (myNum[i]!= myNum[myNum.size()-i-1]){
                 return false;
             }
-            return true;
         }
+        return true;
     }
 };
 
